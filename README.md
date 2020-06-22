@@ -5,8 +5,8 @@
   The code in- main_notebook.ipynb. 
   
 ## Team members-
-- Koushik Kumar Kamala	-	013766571
-- Mrunali Sanjay Khandat	-	013723177
+- Koushik Kumar Kamala
+- Mrunali Sanjay Khandat
 
 ### References:
 [1] M. Sahidullah and G. Saha, “Design, analysis and experimental evaluation of block based transformation in MFCC computation for speaker recognition,” vol. 54, no. 4. pp.
